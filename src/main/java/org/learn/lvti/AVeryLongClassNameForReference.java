@@ -1,4 +1,4 @@
-package org.example.lvti;
+package org.learn.lvti;
 
 public class AVeryLongClassNameForReference {
 
